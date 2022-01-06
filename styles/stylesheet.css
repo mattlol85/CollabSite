@@ -1,0 +1,23 @@
+body{
+    margin:0
+}
+#navbar{
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding:30px 25px;
+}
+#navbar-links{
+    margin-left:auto;
+}
+#navbar-links > a{
+    text-decoration: none;
+    padding: 2.5px;
+    font-size: 20px;
+}
+#navbar-links > a:hover{
+    font-weight: bold;
+    color:chocolate;
+    font-size: 30px;
+}
