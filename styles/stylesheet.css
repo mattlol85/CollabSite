@@ -1,0 +1,40 @@
+body{
+    margin:0
+}
+#navbar{
+  background-color: rgb(216, 188, 108);
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding:30px 25px;
+}
+#navbar > a{
+    display: flex;
+    text-decoration: none;
+}
+.logo-name{
+    color:white;
+}
+#navbar-links{
+    margin-left:auto;
+}
+#navbar-links > a{
+    text-decoration: none;
+    padding: 2.5px;
+    font-size: 20px;
+}
+#navbar-links > a:hover{
+    font-weight: bold;
+    font-size: 30px;
+    border: 5px inset;
+    border-radius: 10px;
+}
+.home{
+    color:rgb(245, 30, 103)
+}
+.donate{
+    color:rgb(115, 224, 70)
+}
+.about{
+    color:rgb(96, 253, 253)
+}
