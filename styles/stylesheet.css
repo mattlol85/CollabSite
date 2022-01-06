@@ -29,6 +29,13 @@ body{
     border: 5px inset;
     border-radius: 10px;
 }
+form{
+    margin: 50px auto;
+    padding: 50px;
+    text-align: center;
+    border:4px dashed rgb(185, 34, 34);
+    max-width: 1000px;
+}
 .home{
     color:rgb(245, 30, 103)
 }
@@ -37,4 +44,21 @@ body{
 }
 .about{
     color:rgb(96, 253, 253)
+}
+.zip{
+    width: 50px;
+}
+.state{
+    width:30px;
+}
+.city{
+    width:80px;
+}
+.currency{
+    width:100px;
+}
+.sumbit{
+    margin-top: 20px;
+    width: 90px;
+    height: 25px;
 }
