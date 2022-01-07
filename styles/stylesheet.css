@@ -113,3 +113,10 @@ form > input{
 .head-1{
     margin-left: 20px;
 }
+.rect-img{
+    border-radius: 40px;;
+    max-width: 500px;
+}
+.center{
+    text-align: center;
+}
