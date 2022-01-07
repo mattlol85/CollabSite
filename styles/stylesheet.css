@@ -63,6 +63,8 @@ form{
     height: 25px;
 }
 
-footer{
+
+.footer-p{
     background-color: rgb(216, 188, 108);
+    text-align: center;
 }
